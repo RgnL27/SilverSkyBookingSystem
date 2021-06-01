@@ -1,5 +1,5 @@
 # SilverSkyBookingSystem
-Airline Booking System with Senior Discount for project purposes only
+Airline Booking System with Senior Discount coded for project purposes only
 
 Credits to Ranzel's Group
 
